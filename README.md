@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @uanik03
 - 👀 I’m interested in web dev and blockchain.
-- :book: I’m currently learning solana development
+- :book: I’m currently learning blockchain development
 - :handshake: I’m looking to collaborate on web2/web3 projects 
 - 📫 contact me : uanik7150@gmail.com
 
