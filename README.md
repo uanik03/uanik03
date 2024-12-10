@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @uanik03
+- 👋 Hi, I’m uanik
 - :handshake: I’m looking to collaborate on web2/web3 projects 
 - 📫 contact me : uanik7150@gmail.com
 
