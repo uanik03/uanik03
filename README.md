@@ -1,6 +1,6 @@
 - 👋 Hi, I’m uanik
 - Software Developer
-- 📫 Mail Id : uanik7150@gmail.com
+- 📫 Mail Id : uanikprojects@gmail.com
 
 <!-- - :handshake: I’m looking to collaborate on web2/web3 projects --->
 <!-- [![An image of @uanik03's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/uanik03)](https://holopin.io/@uanik03) --->
